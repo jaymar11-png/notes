@@ -3,7 +3,7 @@
 ### number row characters
 * ~ tilde
 ( Open parenthesis
-*` Equivalency sign
+* ` Equivalency sign
 * $ dollar sign
 * % percent sign
 * ^ caret
