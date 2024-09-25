@@ -1,6 +1,6 @@
-# readme
+# Readme
 
-### number row characters
+### Number row characters
 * ~ tilde
 ( Open parenthesis
 * ` Equivalency sign
@@ -17,15 +17,15 @@
 * /# hashtag
 * ! exclamation
 
-###links
+### Links
 
-[Apple Pages] (https://www.apple.com/ca/)
+* [Apple Pages](https://www.apple.com/ca/)
 
-[Microsoft Pages] (https://www.microsoft.com/en-ca)
+* [Microsoft Pages](https://www.microsoft.com/en-ca)
 
-[Instargram Pages] (https://www.instagram.com/)
+* [Instargram Pages](https://www.instagram.com/)
 
-### emojis
+### Emojis
 :kissing_smiling_eyes:
 :open_mouth:
 :expressionless:
